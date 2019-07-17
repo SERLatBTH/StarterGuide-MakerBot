@@ -1,5 +1,6 @@
-# MakerBot
+# MakerBot 3D Printer
 
+The MakerBot Replicator+ is a machine that makes solid, three-dimensional objects out of melted MakerBotPLA Filament. Also known as 3D printer. The printer uses 3d models which can be transferred via local network, USB drive, or USB cable.  The MakerBot Replicator+ will melt filament and squeeze it out onto the build plate in thin linesto build your object layer by layer. minimizing warping and curling.  This method of 3D printing  is called fused deposition modeling (FDM).
 
 ## Content
 
