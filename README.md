@@ -58,12 +58,13 @@ The printer already assembled and ready to be used, Only the spool PLA filament 
 1. Open MakerBot print app.
 2. Choose a 3D model
    * To open an object from your local computer, open the Project Panel, click Add Models, and navigate to the location of the saved file. Select the file and click Open to import it into MakerBot Print. You can also click File > Insert File to import the object into MakerBot Print. Once a model has been added, it is available to be used on your build plate
-3. When you are ready to print your model, click Print in MakerBot Print to slice the model using the current settings and send a .makerbot  print file to your MakerBot Replicator+.
-4. You will be reminded to clear the build plate and asked to initiate the print on the control panel.
-5. You can also select Begin Printing on the control panel after starting the file transfer or tap Print on the MakerBot Mobile App.
+3. In MakerBot print go to print settings (right side menu)-> Extruder Type and make sure  "Smart Extruder +" is selected.
+4. When you are ready to print your model, click Print in MakerBot Print to slice the model using the current settings and send a .makerbot  print file to your MakerBot Replicator+.
+5. You will be reminded to clear the build plate and asked to initiate the print on the control panel.
+6. You can also select Begin Printing on the control panel after starting the file transfer or tap Print on the MakerBot Mobile App.
    * If MakerBot Print is connected to your MakerBot Replicator+, the print file will be sent directly to your 3D printer.
    * If MakerBot Print is not connected to your MakerBot Replicator+, this button will open a dialog allowing you to export and save a .makerbot print file. You can transfer the print file to your MakerBot Replicator+ using a USB drive.
-6. Click Show Print Preview in MakerBot Print to open a preview of the sliced model. If you so choose, you can have your object printed on a raft. The raft acts as a base for your object and any support structures and ensures that everything adheres well to the build plate. The raft will be easily removable once you detach your finished object from the build plate
+7. Click Show Print Preview in MakerBot Print to open a preview of the sliced model. If you so choose, you can have your object printed on a raft. The raft acts as a base for your object and any support structures and ensures that everything adheres well to the build plate. The raft will be easily removable once you detach your finished object from the build plate
 
 ### Pausing Or Cancelling a Print
 + To pause a print, push the menu button on the MakerBot Replicator+ and select Pause with the dial. You can also select the printer in MakerBot Print and select Pause.
@@ -72,4 +73,9 @@ The printer already assembled and ready to be used, Only the spool PLA filament 
 ### After Printing
 
 #### Removing the print from the build plate
-When your print finishes, remove the flexible build plate from the MakerBot Replicator+. Remove the print from the build plate by simply bending the flexible build plate. The print will peel off the smooth grip surface. Peel the raft off of the bottom of the print, if you printed the object with a raft. When you have removed the print from the build plate, make sure to clean the build plate of any debris before reloading the build plate into the MakerBot Replicator+. Note: When you bend the flexible build plate, some pieces of the raft may remain on the plate. Simply bend the flex build plate again or use a flat, non-sharp tool to remove the raft pieces. Never use a knife to remove pieces of the raft. You can damage the build plate.
+* When your print finishes simply remove the print and make sure the plate is clean. 
+* In case you are unable to remove the print from the plate then remove the flexible build plate from the MakerBot Replicator+. 
+* Remove the print from the build plate by simply bending the flexible build plate. The print will peel off the smooth grip surface. 
+* Peel the raft off of the bottom of the print, if you printed the object with a raft. 
+* When you have removed the print from the build plate, make sure to clean the build plate of any debris before reloading the build plate into the MakerBot Replicator+. 
+* Note: When you bend the flexible build plate, some pieces of the raft may remain on the plate. Simply bend the flex build plate again or use a flat, non-sharp tool to remove the raft pieces. Never use a knife to remove pieces of the raft. You can damage the build plate.
