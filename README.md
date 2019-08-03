@@ -50,7 +50,9 @@ The printer already assembled and ready to be used, Only the spool PLA filament 
 2. Create an account on MakerBot [website](https://accounts.makerbot.com/register?theme=store) if you don't have already.
 3. Connect to MakerBot via USB, ETHERNET or WI-FI.
    * To connect via USB cable, insert the USB-B end of the cable into the port on the back of your MakerBot Replicator+ and insert the USB-A end of the cable into a USB port on your computer. MakerBot Print will detect your MakerBot Replicator
-   * To connect via Ethernet, connect an Ethernet cable to your MakerBot Replicator+ and to a wall jack or router. In MakerBot Print, navigate to the Printer Panel and select Add a Printer > Add a Network Printer. Find your MakerBot Replicator+ in the list of networked devices and click Add. Press the dial on the MakerBot Replicator+ to authenticate the connection
+   * To connect via Ethernet, connect an Ethernet cable to your MakerBot Replicator+ and to a wall jack or router. In MakerBot Print, navigate to the Printer Panel and select Add a Printer > Add a Network Printer. Find your MakerBot Replicator+ in the list of networked devices and click Add. Press the dial on the MakerBot Replicator+ to authenticate the connection.
+     - In case your MakerBot Replicator+ did not appear in the list of networked devices, go back one step to Add a Printer and choose Connect via IP Address, put the IP Address of the printer in the box and click Add.
+     - To get the printer's IP Address , use the dial on the printer to navigate to info, here you will find the IP Address. 
    * To connect via Wi-Fi, in MakerBot Print, navigate to the Printer Panel and select Add a Printer > Add a Network Printer. Find your MakerBot Replicator+ in the list of networked devices and click Add. Press the dial on the MakerBot Replicator+ to authenticate the connection
    * To transfer files via USB drive, insert a USB drive into the port next to the dial, select Print > USB Storageand select the desired file. The menu will prompt you to print, transfer the file to onboard memory, or dele
 
@@ -73,9 +75,9 @@ The printer already assembled and ready to be used, Only the spool PLA filament 
 ### After Printing
 
 #### Removing the print from the build plate
-* When your print finishes simply remove the print and make sure the plate is clean. 
-* In case you are unable to remove the print from the plate then remove the flexible build plate from the MakerBot Replicator+. 
-* Remove the print from the build plate by simply bending the flexible build plate. The print will peel off the smooth grip surface. 
-* Peel the raft off of the bottom of the print, if you printed the object with a raft. 
-* When you have removed the print from the build plate, make sure to clean the build plate of any debris before reloading the build plate into the MakerBot Replicator+. 
+* When your print finishes simply remove the print and make sure the plate is clean.
+* In case you are unable to remove the print from the plate then remove the flexible build plate from the MakerBot Replicator+.
+* Remove the print from the build plate by simply bending the flexible build plate. The print will peel off the smooth grip surface.
+* Peel the raft off of the bottom of the print, if you printed the object with a raft.
+* When you have removed the print from the build plate, make sure to clean the build plate of any debris before reloading the build plate into the MakerBot Replicator+.
 * Note: When you bend the flexible build plate, some pieces of the raft may remain on the plate. Simply bend the flex build plate again or use a flat, non-sharp tool to remove the raft pieces. Never use a knife to remove pieces of the raft. You can damage the build plate.
